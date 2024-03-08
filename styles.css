@@ -1,0 +1,121 @@
+.dodge {
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.sky {
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.eclipse {
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.dodge-challenger {
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.supra {
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.s2000 {
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.rx7 {
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.roadrunner {
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.mustang { 
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.nissan {
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.lykan {
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.civic {
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+body {
+    background-color: rgb(76, 78, 84);
+}
+
+.botao {
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: rgba(98, 91, 91, 0.533);
+    margin-top: 50px;
+    padding: 20px;
+    position: bottom;
+}
+
+.h1 {
+    margin-bottom: 20px;
+}
+
+.Rx7 {
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
